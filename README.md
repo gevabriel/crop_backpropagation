@@ -5,5 +5,5 @@ Anggota : <br>
 * Gibran Hakim (215150200111020)
 * Muhammad Fajrul Alwan (215150207111023)
 * Saif Daffa Adinata (215150200111059)
-*  <br>
+
 Link Kaggle: https://www.kaggle.com/code/gevabriel/crop-backpropagation
